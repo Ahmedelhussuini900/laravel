@@ -1,0 +1,51 @@
+/* public/css/styles.css */
+
+/* resources/css/app.css */
+
+/* resources/css/app.css */
+
+body {
+    background: url('https://via.placeholder.com/1920x1080') no-repeat center center fixed;
+    background-size: cover; /* Cover the entire viewport */
+    color: #333;
+}
+
+.navbar {
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent navbar */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.footer {
+    background-color: rgba(248, 249, 250, 0.8); /* Semi-transparent footer */
+    border-top: 1px solid #e0e0e0;
+}
+/* resources/css/app.css */
+
+.hero-section {
+    background: url('https://via.placeholder.com/1920x600') no-repeat center center;
+    background-size: cover;
+    padding: 60px 0;
+    color: #fff;
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.9); /* Slightly transparent card background */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+        .card-header {
+            background-color: #007bff;
+            color: #fff;
+        }
+        .card-body {
+            padding: 1.5rem;
+        }
+        .btn {
+            margin-right: 0.5rem;
+        }
+        .img-fluid {
+            max-height: 300px; /* Adjust as needed */
+            object-fit: cover; /* Ensures the image fits well */
+        }
+
